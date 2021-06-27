@@ -33,7 +33,7 @@ margin:auto;
 
 }
 
-@media (max-width: 640px){
+@media (max-width: 1024px){
 .container-home {
    font-size: 1rem;
    }
