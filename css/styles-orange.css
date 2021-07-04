@@ -305,6 +305,13 @@ margin:auto;
   padding: 0px;
 
 }
+.col-lg-6 img {
+    max-width:50vw;
+}
+@media (max-width: 768px){
+  .col-lg-6 img {
+      max-width:100vw;
+  }
 /*----button----*/
 .btn-dark
 {
