@@ -139,11 +139,7 @@ margin:auto;
    font-size:1.2rem;
    }
 }
-@media (max-width: 768px){
-.h2 {
-   font-size:1.8rem;
-   }
-}
+
 .container-fluid-home-text-3 {
 
   padding-bottom: ;
@@ -250,7 +246,11 @@ margin:auto;
   font-family:'karla', sans-serif;
   color:rgba(14,19,24,.7);
 }
-
+@media (max-width: 768px){
+.h2 {
+   font-size:1.8rem;
+   }
+}
 
 
 .col-lg-6 {
@@ -265,6 +265,11 @@ margin:auto;
   border-color:#ff8362;
 
 }
+@media (max-width: 768px){
+.btn-dark {
+   font-size:1.8rem;
+   }
+}
 .btn-dark:hover { background-color: rgba(14,19,24, 0.7);
 border-color: rgba(14,19,24, 0.7); }
 .btn-outline-dark
@@ -272,7 +277,11 @@ border-color: rgba(14,19,24, 0.7); }
 border-color: #ff8362;}
 .carousel
 {margin:auto;}
-
+@media (max-width: 768px){
+.btn-dark:hover {
+   font-size:1.8rem;
+   }
+}
 /*----contact form----*/
 .btn-dark-2
 {
