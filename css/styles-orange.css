@@ -34,7 +34,7 @@ margin:auto;
 }
 @media (max-width: 1366px){
 .container-home {
-   font-size: 1rem;
+   font-size: 1.3rem;
     padding-right:60px;
   padding-left:60px;
    }
@@ -57,7 +57,7 @@ margin:auto;
 }
 @media (max-width: 1366px){
 .container-home-white {
-   font-size: 1rem;
+   font-size: 1.3rem;
     padding-right:60px;
   padding-left:60px;
    }
