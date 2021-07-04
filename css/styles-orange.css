@@ -172,14 +172,10 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
-
-
 }
 @media (max-width: 768px){
 .container-fluid-home-upvc {
    font-size: 2rem;
-    padding-right:60px;
-  padding-left:60px;
    min-height:0px;
    }
 }
@@ -190,8 +186,12 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
-
-
+}
+@media (max-width: 768px){
+.container-fluid-home-kitchen {
+   font-size: 2rem;
+   min-height:0px;
+   }
 }
 .container-fluid-home-shop-front {
   background-image: url("http://www.staging.thesprayingcompany.com/wp-content/uploads/2021/05/shop-front-homepage.jpg");
@@ -200,10 +200,13 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
-
-
 }
-
+@media (max-width: 768px){
+.container-fluid-home-shop-front {
+   font-size: 2rem;
+   min-height:0px;
+   }
+}
 .container-fluid-home-cladding {
   background-image: url("http://www.staging.thesprayingcompany.com/wp-content/uploads/2021/05/CLADDING-HOME-2.jpg");
 
@@ -211,9 +214,14 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
-
-
 }
+@media (max-width: 768px){
+.container-fluid-home-cladding {
+   font-size: 2rem;
+   min-height:0px;
+   }
+}
+
 
 .container-fluid-home-furniture {
   background-image: url("http://www.staging.thesprayingcompany.com/wp-content/uploads/2021/05/furniture-spray-home.jpg");
@@ -222,8 +230,12 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
-
-
+}
+@media (max-width: 768px){
+.container-fluid-home-furniture {
+   font-size: 2rem;
+   min-height:0px;
+   }
 }
 .layer {
     background-color: rgba(248, 247, 216, 0.7);
