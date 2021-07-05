@@ -45,6 +45,74 @@ margin:auto;
   padding-left:60px;
    }
 }
+.container-home-shop-front {
+  background-color: #ff8362;
+bakground:cover;
+  color: white;
+  font-size: 1.8rem;
+height:100%;
+padding-top:155px;
+  padding-right:120px;
+  padding-left:120px;
+margin:auto;
+  width: 100%;
+  font-family:'karla', sans-serif;
+  font-weight: bold;
+  vertical-align: middle;
+
+}
+@media (max-width: 1366px){
+.container-home-shop-front {
+   font-size: 1.3rem;
+   font-size: 1.3rem;
+   padding-top:60px;
+   padding-right:40px;
+   padding-bottom:60px;
+   padding-left:40px;
+   }
+}
+@media (max-width: 768px){
+.container-home-shop-front {
+   padding-top:60px;
+   padding-right:40px;
+   padding-bottom:60px;
+   padding-left:40px;
+   }
+ }
+.container-home-white-shop-front {
+     background-color: white;
+   bakground:cover;
+     color: #ff8362;
+     font-size: 1.8rem;
+   height:100%;
+   padding-top:120px;
+     padding-right:120px;
+     padding-left:120px;
+   margin:auto;
+     width: 100%;
+     font-family:'karla', sans-serif;
+     font-weight: bold;
+     vertical-align: middle;
+
+   }
+   @media (max-width: 1366px){
+   .container-home-white-shop-front {
+      font-size: 1.3rem;
+      padding-top:60px;
+      padding-right:40px;
+      padding-bottom:60px;
+      padding-left:40px;
+      }
+      }
+
+   @media (max-width: 768px){
+   .container-home-white-shop-front {
+      padding-top:60px;
+      padding-right:40px;
+      padding-bottom:60px;
+      padding-left:40px;
+      }
+   }
 .container-home-cladding {
   background-color: #ff8362;
 bakground:cover;
@@ -104,7 +172,7 @@ margin:auto;
       padding-left:40px;
       }
       }
-   
+
    @media (max-width: 768px){
    .container-home-white-cladding {
       padding-top:60px;
@@ -638,6 +706,22 @@ border-color: rgba(14,19,24, 0.7); }
 .btn-outline-dark
 {color:#ff8362;
 border-color: #ff8362;}
+
+.btn-dark-3 {
+font-size: 2rem;
+background-color: white;
+border-color: white;
+color: #ff8362;
+}
+.btn-dark-3:hover { background-color: rgba(14,19,24, 0.7);
+border-color: rgba(14,19,24, 0.7);
+color:white;}
+@media (max-width: 768px){
+.btn-dark-3 {
+   font-size:1.8rem;
+   }
+}
+
 .carousel
 {margin:auto;}
 @media (max-width: 768px){
