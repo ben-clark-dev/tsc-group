@@ -1,6 +1,9 @@
 /* build your own custom Bootstrap theme:
    https://themestr.app
 */
+
+
+
 .navbar {
   background: none;
   font-size: 1.25rem;
@@ -75,8 +78,8 @@ margin:auto;
    padding-bottom:60px;
    padding-left:40px;
    }
-
-   .container-home-white-furniture {
+ }
+.container-home-white-furniture {
      background-color: white;
    bakground:cover;
      color: #ff8362;
@@ -89,6 +92,7 @@ margin:auto;
      width: 100%;
      font-family:'karla', sans-serif;
      font-weight: bold;
+     vertical-align: middle;
 
    }
    @media (max-width: 1366px){
