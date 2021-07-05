@@ -819,6 +819,11 @@ margin:auto;
       max-width:100vw;
   }
 }
+@media (max-width: 1023px){
+  .container-fluid-home-text-3 img {
+      max-width:100%;
+  }
+}
 .container-fluid-home-text-2 img {
     max-width:60%;
   }
