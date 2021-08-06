@@ -537,8 +537,8 @@ margin:auto;
   color: #ff8362;
   font-size: 6rem;
   margin: 50px;
-   /*text-shadow: 1px 1px 2px rgba(123, 123, 123, 0.4);*/
-   font-family:'karla', sans-serif;
+  text-shadow: 0 10px 15px rgb(0 0 0 / 30%);
+  font-family:'karla', sans-serif;
 }
 
 @media (max-width: 768px){
