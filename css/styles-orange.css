@@ -596,6 +596,7 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
+  background-attachment: fixed;
 }
 @media (max-width: 768px){
 .container-fluid-home-upvc {
@@ -610,6 +611,7 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
+  background-attachment: fixed;
 }
 @media (max-width: 768px){
 .container-fluid-home-kitchen {
@@ -625,6 +627,7 @@ margin:auto;
   min-height: 920px;
   background-repeat: no-repeat;
   margin-top: -290px;
+  background-attachment: fixed;
 }
 @media (max-width: 768px){
 .container-fluid-home-shop-front {
